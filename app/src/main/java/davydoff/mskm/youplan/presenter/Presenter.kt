@@ -1,6 +1,6 @@
 package davydoff.mskm.youplan.presenter
 
-import davydoff.mskm.youplan.view.android.View
+import davydoff.mskm.youplan.view.View
 
 /**
  * Created by mskm on 19.02.2017.

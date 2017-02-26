@@ -1,4 +1,4 @@
-package davydoff.mskm.youplan.view.android
+package davydoff.mskm.youplan.view
 
 import davydoff.mskm.youplan.presenter.Presenter
 
